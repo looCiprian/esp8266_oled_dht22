@@ -13,3 +13,16 @@ Simple program to display temperature, humidity, heat temperature, temperature g
 3. Adafruit_GFX.h
 4. Adafruit_SSD1306.h
 5. DHT.h
+
+## Preview
+
+### Temperature
+![](images/temp.jpg)
+![](images/temp_graph.jpg)
+
+### Humidity
+![](images/hum.jpg)
+![](images/hum_graph.jpg)
+
+### Heat
+![](images/heat.jpg)
